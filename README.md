@@ -19,48 +19,56 @@ I am currently working on various AI-driven projects, including **CarWrapAI**, a
 ### 🛠️ My Tech Stack & Tools
 
 #### **AI & Machine Learning**:
-- **TensorFlow**  
-- **PyTorch**  
-- **HuggingFace Transformers**  
-- **OpenCV**  
-- **FastAPI**  
-- **Scikit-learn**  
-- **Keras**
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FF4F8B?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</div>
 
 #### **Programming Languages**:
-- **Python**   
-- **Java**  
-- **C/C++**  
-- **JavaScript**  
-- **SQL**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-2396ED?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
 #### **Web Development**:
-- **React**  
-- **Node.js**  
-- **ASP.NET Core MVC**  
-- **Flask**  
-- **Django**  
-- **HTML/CSS**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white" />
+</div>
 
 #### **Cloud & DevOps**:
-- **AWS**  
-- **Docker**  
-- **PostgreSQL**  
-- **MongoDB**  
-- **Git**
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 #### **Automation & Tools**:
-- **Selenium**  
-- **Groq Cloud API**  
-- **Deepgram**  
-- **Gemini API**  
+<div align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deepgram-44B6F3?style=for-the-badge&logo=deepgram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-00B0FF?style=for-the-badge&logo=google&logoColor=white" />
+</div>
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanjeelur&show_icons=true&locale=en&theme=radical" alt="tanjeelur" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanjeelur&show_icons=true&locale=en&theme=radical&hide_title=true" alt="tanjeelur" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjeelur&show_icons=true&layout=compact&theme=radical" alt="tanjeelur" width="48%" />
 </div>
 
@@ -80,6 +88,9 @@ I am currently working on various AI-driven projects, including **CarWrapAI**, a
    - **Technologies**: Python, YOLOv8, OpenCV  
    - **Description**: Fall detection system using YOLOv8, focusing on real-time video analysis and alerts for elderly safety.
 
+4. **[HRMS Project](https://github.com/Tanjeelur/HRMSProject)**  
+   - **Technologies**: ASP.NET Core, Entity Framework Core, PostgreSQL  
+   - **Description**: A modern Human Resource Management System (HRMS) for employee and company management with a responsive UI.
 
 ---
 
