@@ -5,38 +5,21 @@
 
 ### 🚀 About Me
 
-I am an AI Developer with a passion for creating advanced solutions using **Python**, **Machine Learning**, and **Deep Learning**. Over the years, I've built numerous applications, ranging from **AI-powered systems** to **cloud-native architectures**. I am always exploring the latest tools and frameworks like **RAG**, **N8N**, and **LangGraph** to push the boundaries of AI technology.
-
-I’m currently working on [CarWrapAI](https://github.com/Roksana18cse04/CarWrapAI.git), a cutting-edge AI model designed to generate car wrap designs. With a focus on **scalability**, **performance**, and **innovation**, I strive to create solutions that have a meaningful impact.
-
-- 🔭 **Current Project**: [CarWrapAI](https://github.com/Roksana18cse04/CarWrapAI.git)  
-- 🌱 **Currently Exploring**: RAG, N8N, LangGraph  
-- 🧠 **Passionate About**: AI-driven solutions in e-commerce, image processing, and automation  
-- 💬 **Let’s Connect**: [md.tanjeelur@gmail.com](mailto:md.tanjeelur@gmail.com)  
-- 📄 **Resume**: [Download PDF](https://drive.google.com/file/d/1TmK1m11XWEgq5TQPDbJlj5dW22MsRHov/view?usp=sharing)
+I am an AI Developer with a passion for creating advanced solutions using **Python**, **Machine Learning**, and **Deep Learning**. I have worked on several cutting-edge projects focused on real-world problems and AI-driven systems. Currently, I am exploring technologies like **RAG**, **N8N**, and **LangGraph** to take AI to the next level.
 
 ---
 
-### 🛠️ Key Skills & Technologies
+### 🛠️ My Tech Stack
 
-I specialize in multiple domains within AI and development, including but not limited to:
-
-- **Programming Languages**: Python, JavaScript, C++, Java, SQL, Bash  
-- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Keras  
-- **Deep Learning**: Neural Networks, CNNs, RNNs, Transformers, NLP  
-- **Cloud Platforms**: AWS, Google Cloud, Microsoft Azure  
-- **Web Development**: React, Node.js, Django, Flask  
-- **Database Technologies**: PostgreSQL, MongoDB, MySQL, Redis  
-- **DevOps & CI/CD**: Docker, Kubernetes, Git, Jenkins  
-- **AI Tools**: OpenCV, Pandas, Seaborn, Matplotlib, Jupyter Notebooks
-
----
-
-### 🏆 Featured Projects
-
-- **[CarWrapAI](https://github.com/Roksana18cse04/CarWrapAI.git)**: An AI-powered system that designs custom car wraps by analyzing existing patterns and user preferences. The model utilizes deep learning techniques to generate realistic designs.
-- **[InstantVerse](https://github.com/yourusername/instantverse)**: A voice-to-Bible verse matching app. This project uses speech recognition to match spoken words with relevant Bible verses and provides real-time transcript display.
-- **[AI Chatbot for Fitness](https://github.com/yourusername/ai-fitness-chatbot)**: A personalized fitness chatbot that provides real-time health tips based on user goals and past conversations.
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
 ---
 
@@ -44,9 +27,52 @@ I specialize in multiple domains within AI and development, including but not li
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjeelur&show_icons=true&locale=en&layout=compact" alt="tanjeelur" />
-  <br/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanjeelur&show_icons=true&locale=en" alt="tanjeelur" />
 </p>
+
+---
+
+### 🌱 Current Work
+
+Currently, I am working on **[CarWrapAI](https://github.com/Roksana18cse04/CarWrapAI.git)**, an innovative AI solution that generates custom car wrap designs based on user preferences. The project leverages **deep learning** and **image processing** to deliver highly personalized results.
+
+---
+
+### 🧠 My Areas of Focus:
+
+- **AI-Powered Image Processing**: Leveraging CNNs and deep learning to enhance user experiences in image design and processing.
+- **Natural Language Processing (NLP)**: Working on intelligent chatbots and voice-to-text applications, currently developing a **[Voice-to-Bible Verse Matching App](https://github.com/yourusername/instantverse)**.
+- **AI for Fitness and Health**: Building intelligent systems that provide personalized health advice using machine learning models.
+
+---
+
+### 📊 Tech & Frameworks Expertise
+
+- **Machine Learning**: TensorFlow, PyTorch, Scikit-Learn, Keras
+- **Web Development**: React, Node.js, Django, Flask
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, Nginx
+- **Languages**: Python, JavaScript, Java, C++, SQL
+- **AI Tools**: OpenCV, Pandas, Seaborn, Matplotlib, Jupyter Notebooks
+
+---
+
+### 🚀 Featured Projects
+
+1. **[CarWrapAI](https://github.com/Roksana18cse04/CarWrapAI.git)**  
+   - **Technologies**: Python, TensorFlow, Keras, OpenCV  
+   - **Description**: AI-driven platform to design custom car wraps using deep learning techniques.
+
+2. **[InstantVerse](https://github.com/yourusername/instantverse)**  
+   - **Technologies**: React, FastAPI, Speech Recognition, OpenAI API  
+   - **Description**: A voice-to-Bible verse matching application that displays real-time transcripts.
+
+3. **[AI Chatbot for Fitness](https://github.com/yourusername/ai-fitness-chatbot)**  
+   - **Technologies**: Python, TensorFlow, NLP, Flask  
+   - **Description**: A fitness chatbot that provides personalized health tips based on user data and goals.
 
 ---
 
@@ -59,6 +85,6 @@ I specialize in multiple domains within AI and development, including but not li
 
 ---
 
-### 🚀 Let's Collaborate and Build the Future of AI
+### 🚀 Let’s Collaborate and Build the Future of AI
 
-If you are interested in collaborating on AI projects or sharing insights into the latest technologies, feel free to reach out. Let’s make AI more impactful and accessible to all!
+If you’re interested in working together or discussing the latest AI technologies, feel free to reach out. Let’s explore the endless possibilities of AI! 💡
