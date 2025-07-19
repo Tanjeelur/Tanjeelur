@@ -1,31 +1,42 @@
 <h1 align="center">Hello, I'm Md Tanjeelur Rahman Labib 👋</h1>
-<h3 align="center">AI Developer | Innovator in Machine Learning & Deep Learning | Passionate about Next-Gen AI Solutions</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanjeelur" alt="tanjeelur" /></a>
-</p>
+<h3 align="center">AI Developer | Innovator in Machine Learning & Deep Learning | Passionate about Building Intelligent Systems</h3>
 
 ---
 
 ### 🚀 About Me
 
-As an AI Developer, I am passionate about building cutting-edge solutions with Python, Machine Learning, and Deep Learning. I am continuously exploring emerging technologies like **RAG**, **N8N**, and **LangGraph** to solve real-world challenges. Currently, I'm working on a project called [CarWrapAI](https://github.com/Roksana18cse04/CarWrapAI.git), a car wrap design generator powered by AI.
+I am an AI Developer with a passion for creating advanced solutions using **Python**, **Machine Learning**, and **Deep Learning**. Over the years, I've built numerous applications, ranging from **AI-powered systems** to **cloud-native architectures**. I am always exploring the latest tools and frameworks like **RAG**, **N8N**, and **LangGraph** to push the boundaries of AI technology.
 
-- 🔭 **Current Project**: [CarWrapAI](https://github.com/Roksana18cse04/CarWrapAI.git)
-- 🌱 **Learning**: RAG, N8N, LangGraph
-- 📫 **Reach out to me**: [md.tanjeelur@gmail.com](mailto:md.tanjeelur@gmail.com)
-- 📄 **My Resume**: [Download PDF](https://drive.google.com/file/d/1TmK1m11XWEgq5TQPDbJlj5dW22MsRHov/view?usp=sharing)
+I’m currently working on [CarWrapAI](https://github.com/Roksana18cse04/CarWrapAI.git), a cutting-edge AI model designed to generate car wrap designs. With a focus on **scalability**, **performance**, and **innovation**, I strive to create solutions that have a meaningful impact.
+
+- 🔭 **Current Project**: [CarWrapAI](https://github.com/Roksana18cse04/CarWrapAI.git)  
+- 🌱 **Currently Exploring**: RAG, N8N, LangGraph  
+- 🧠 **Passionate About**: AI-driven solutions in e-commerce, image processing, and automation  
+- 💬 **Let’s Connect**: [md.tanjeelur@gmail.com](mailto:md.tanjeelur@gmail.com)  
+- 📄 **Resume**: [Download PDF](https://drive.google.com/file/d/1TmK1m11XWEgq5TQPDbJlj5dW22MsRHov/view?usp=sharing)
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Key Skills & Technologies
 
-I specialize in a wide range of technologies and tools to build efficient and scalable AI systems:
+I specialize in multiple domains within AI and development, including but not limited to:
 
-- **Languages**: Python, JavaScript, C++, Java, SQL
-- **Frameworks & Libraries**: TensorFlow, PyTorch, Scikit-Learn, Pandas, OpenCV, React, Django
-- **Cloud & DevOps**: AWS, Docker, PostgreSQL, MongoDB, Redis, Nginx
-- **Tools**: Git, Postman, Figma, IFTTT, Selenium
+- **Programming Languages**: Python, JavaScript, C++, Java, SQL, Bash  
+- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Keras  
+- **Deep Learning**: Neural Networks, CNNs, RNNs, Transformers, NLP  
+- **Cloud Platforms**: AWS, Google Cloud, Microsoft Azure  
+- **Web Development**: React, Node.js, Django, Flask  
+- **Database Technologies**: PostgreSQL, MongoDB, MySQL, Redis  
+- **DevOps & CI/CD**: Docker, Kubernetes, Git, Jenkins  
+- **AI Tools**: OpenCV, Pandas, Seaborn, Matplotlib, Jupyter Notebooks
+
+---
+
+### 🏆 Featured Projects
+
+- **[CarWrapAI](https://github.com/Roksana18cse04/CarWrapAI.git)**: An AI-powered system that designs custom car wraps by analyzing existing patterns and user preferences. The model utilizes deep learning techniques to generate realistic designs.
+- **[InstantVerse](https://github.com/yourusername/instantverse)**: A voice-to-Bible verse matching app. This project uses speech recognition to match spoken words with relevant Bible verses and provides real-time transcript display.
+- **[AI Chatbot for Fitness](https://github.com/yourusername/ai-fitness-chatbot)**: A personalized fitness chatbot that provides real-time health tips based on user goals and past conversations.
 
 ---
 
@@ -39,14 +50,15 @@ I specialize in a wide range of technologies and tools to build efficient and sc
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
 
-- **LinkedIn**: [tanjeelur](https://linkedin.com/in/tanjeelur)
-- **Facebook**: [tanjeelur](https://fb.com/tanjeelur)
-- **HackerRank**: [@md_tanjeelur](https://www.hackerrank.com/@md_tanjeelur)
+- **LinkedIn**: [tanjeelur](https://linkedin.com/in/tanjeelur)  
+- **Facebook**: [tanjeelur](https://fb.com/tanjeelur)  
+- **HackerRank**: [@md_tanjeelur](https://www.hackerrank.com/@md_tanjeelur)  
+- **Twitter**: [@tanjeelur](https://twitter.com/tanjeelur)  
 
 ---
 
-### 🚀 Let's Build the Future of AI Together!
+### 🚀 Let's Collaborate and Build the Future of AI
 
-Feel free to explore my repositories, and let’s collaborate on making the world a smarter place! ✨
+If you are interested in collaborating on AI projects or sharing insights into the latest technologies, feel free to reach out. Let’s make AI more impactful and accessible to all!
