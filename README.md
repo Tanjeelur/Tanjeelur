@@ -102,15 +102,25 @@ I am currently working on various AI-driven projects, including **CarWrapAI**, a
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect!
 
-- **LinkedIn**: [tanjeelur](https://linkedin.com/in/tanjeelur)  
-- **Facebook**: [tanjeelur](https://fb.com/tanjeelur)  
-- **HackerRank**: [@md_tanjeelur](https://www.hackerrank.com/@md_tanjeelur)  
-- **Twitter**: [@tanjeelur](https://twitter.com/tanjeelur)
+I'm always open to discussions, collaborations, and opportunities. Feel free to reach out to me through any of the platforms below:
+
+<div align="center">
+  <a href="https://linkedin.com/in/tanjeelur" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/tanjeelur" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.hackerrank.com/@md_tanjeelur" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://twitter.com/tanjeelur" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
 ---
 
-### 🚀 Let’s Collaborate!
-
-Feel free to reach out if you're interested in collaborating on innovative AI solutions or discussing new technologies in the field of AI and ML. Together, we can build impactful systems that change the world! 💡
+Feel free to connect with me for collaboration, sharing ideas, or just having a friendly chat about the latest in AI, ML, and technology! 🚀
