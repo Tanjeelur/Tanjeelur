@@ -12,7 +12,7 @@ I am currently working on various AI-driven projects, including **CarWrapAI**, a
 - 🔭 **Current Project**: [CarWrapAI](https://github.com/Roksana18cse04/CarWrapAI.git)  
 - 🌱 **Learning**: RAG, N8N, LangGraph  
 - 📫 **Reach Out**: [md.tanjeelur@gmail.com](mailto:md.tanjeelur@gmail.com)  
-- 📄 **My Resume**: [Download PDF]([https://drive.google.com/file/d/1TmK1m11XWEgq5TQPDbJlj5dW22MsRHov/view?usp=sharing](https://drive.google.com/file/d/1wws69kMfKP99xeNjwkoQpx3V9ff2-Doc/view?usp=sharing))
+- 📄 **My Resume**: [Download PDF](https://drive.google.com/file/d/1TmK1m11XWEgq5TQPDbJlj5dW22MsRHov/view?usp=sharing](https://drive.google.com/file/d/1wws69kMfKP99xeNjwkoQpx3V9ff2-Doc/view?usp=sharing))
 
 ---
 
